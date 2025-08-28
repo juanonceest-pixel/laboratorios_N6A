@@ -1,0 +1,71 @@
+metrica,valor,descripcion
+tipo_dato_country,object,Tipo de dato de la columna country
+tipo_dato_date,object,Tipo de dato de la columna date
+tipo_dato_total_cases,float64,Tipo de dato de la columna total_cases
+tipo_dato_new_cases,float64,Tipo de dato de la columna new_cases
+tipo_dato_new_cases_smoothed,float64,Tipo de dato de la columna new_cases_smoothed
+tipo_dato_total_cases_per_million,float64,Tipo de dato de la columna total_cases_per_million
+tipo_dato_new_cases_per_million,float64,Tipo de dato de la columna new_cases_per_million
+tipo_dato_new_cases_smoothed_per_million,float64,Tipo de dato de la columna new_cases_smoothed_per_million
+tipo_dato_total_deaths,float64,Tipo de dato de la columna total_deaths
+tipo_dato_new_deaths,float64,Tipo de dato de la columna new_deaths
+tipo_dato_new_deaths_smoothed,float64,Tipo de dato de la columna new_deaths_smoothed
+tipo_dato_total_deaths_per_million,float64,Tipo de dato de la columna total_deaths_per_million
+tipo_dato_new_deaths_per_million,float64,Tipo de dato de la columna new_deaths_per_million
+tipo_dato_new_deaths_smoothed_per_million,float64,Tipo de dato de la columna new_deaths_smoothed_per_million
+tipo_dato_excess_mortality,float64,Tipo de dato de la columna excess_mortality
+tipo_dato_excess_mortality_cumulative,float64,Tipo de dato de la columna excess_mortality_cumulative
+tipo_dato_excess_mortality_cumulative_absolute,float64,Tipo de dato de la columna excess_mortality_cumulative_absolute
+tipo_dato_excess_mortality_cumulative_per_million,float64,Tipo de dato de la columna excess_mortality_cumulative_per_million
+tipo_dato_hosp_patients,float64,Tipo de dato de la columna hosp_patients
+tipo_dato_hosp_patients_per_million,float64,Tipo de dato de la columna hosp_patients_per_million
+tipo_dato_weekly_hosp_admissions,float64,Tipo de dato de la columna weekly_hosp_admissions
+tipo_dato_weekly_hosp_admissions_per_million,float64,Tipo de dato de la columna weekly_hosp_admissions_per_million
+tipo_dato_icu_patients,float64,Tipo de dato de la columna icu_patients
+tipo_dato_icu_patients_per_million,float64,Tipo de dato de la columna icu_patients_per_million
+tipo_dato_weekly_icu_admissions,float64,Tipo de dato de la columna weekly_icu_admissions
+tipo_dato_weekly_icu_admissions_per_million,float64,Tipo de dato de la columna weekly_icu_admissions_per_million
+tipo_dato_stringency_index,float64,Tipo de dato de la columna stringency_index
+tipo_dato_reproduction_rate,float64,Tipo de dato de la columna reproduction_rate
+tipo_dato_total_tests,float64,Tipo de dato de la columna total_tests
+tipo_dato_new_tests,float64,Tipo de dato de la columna new_tests
+tipo_dato_total_tests_per_thousand,float64,Tipo de dato de la columna total_tests_per_thousand
+tipo_dato_new_tests_per_thousand,float64,Tipo de dato de la columna new_tests_per_thousand
+tipo_dato_new_tests_smoothed,float64,Tipo de dato de la columna new_tests_smoothed
+tipo_dato_new_tests_smoothed_per_thousand,float64,Tipo de dato de la columna new_tests_smoothed_per_thousand
+tipo_dato_positive_rate,float64,Tipo de dato de la columna positive_rate
+tipo_dato_tests_per_case,float64,Tipo de dato de la columna tests_per_case
+tipo_dato_total_vaccinations,float64,Tipo de dato de la columna total_vaccinations
+tipo_dato_people_vaccinated,float64,Tipo de dato de la columna people_vaccinated
+tipo_dato_people_fully_vaccinated,float64,Tipo de dato de la columna people_fully_vaccinated
+tipo_dato_total_boosters,float64,Tipo de dato de la columna total_boosters
+tipo_dato_new_vaccinations,float64,Tipo de dato de la columna new_vaccinations
+tipo_dato_new_vaccinations_smoothed,float64,Tipo de dato de la columna new_vaccinations_smoothed
+tipo_dato_total_vaccinations_per_hundred,float64,Tipo de dato de la columna total_vaccinations_per_hundred
+tipo_dato_people_vaccinated_per_hundred,float64,Tipo de dato de la columna people_vaccinated_per_hundred
+tipo_dato_people_fully_vaccinated_per_hundred,float64,Tipo de dato de la columna people_fully_vaccinated_per_hundred
+tipo_dato_total_boosters_per_hundred,float64,Tipo de dato de la columna total_boosters_per_hundred
+tipo_dato_new_vaccinations_smoothed_per_million,float64,Tipo de dato de la columna new_vaccinations_smoothed_per_million
+tipo_dato_new_people_vaccinated_smoothed,float64,Tipo de dato de la columna new_people_vaccinated_smoothed
+tipo_dato_new_people_vaccinated_smoothed_per_hundred,float64,Tipo de dato de la columna new_people_vaccinated_smoothed_per_hundred
+tipo_dato_code,object,Tipo de dato de la columna code
+tipo_dato_continent,object,Tipo de dato de la columna continent
+tipo_dato_population,float64,Tipo de dato de la columna population
+tipo_dato_population_density,float64,Tipo de dato de la columna population_density
+tipo_dato_median_age,float64,Tipo de dato de la columna median_age
+tipo_dato_life_expectancy,float64,Tipo de dato de la columna life_expectancy
+tipo_dato_gdp_per_capita,float64,Tipo de dato de la columna gdp_per_capita
+tipo_dato_extreme_poverty,float64,Tipo de dato de la columna extreme_poverty
+tipo_dato_diabetes_prevalence,float64,Tipo de dato de la columna diabetes_prevalence
+tipo_dato_handwashing_facilities,float64,Tipo de dato de la columna handwashing_facilities
+tipo_dato_hospital_beds_per_thousand,float64,Tipo de dato de la columna hospital_beds_per_thousand
+tipo_dato_human_development_index,float64,Tipo de dato de la columna human_development_index
+min_new_cases,0.0,Valor mínimo de new_cases
+max_new_cases,59470.0,Valor máximo de new_cases
+pct_faltantes_new_cases,1.26%,Porcentaje de valores faltantes en new_cases
+pct_faltantes_people_vaccinated,60.83%,Porcentaje de valores faltantes en people_vaccinated
+fecha_minima,2020-01-01,Fecha más antigua en el dataset
+fecha_maxima,2025-12-28,Fecha más reciente en el dataset
+total_filas,4126,Total de filas en el dataset filtrado
+total_columnas,61,Total de columnas en el dataset
+paises_incluidos,"Ecuador, Peru",Países incluidos en el análisis
