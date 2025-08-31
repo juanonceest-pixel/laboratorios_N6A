@@ -1,0 +1,13 @@
+Month,Month_Name,Total_Water_mean,Total_Water_max,Total_Water_min,Water_Level_Category_<lambda>,Dominant_Reservoir_<lambda>
+1,January,6032.47,10568.0,227.8,Alto,REDHILLS
+2,February,5674.45,10282.0,160.5,Alto,REDHILLS
+3,March,5296.45,9334.0,143.1,Alto,REDHILLS
+4,April,4667.8,8872.0,156.9,Alto,REDHILLS
+5,May,3927.69,7634.0,65.0,Alto,REDHILLS
+6,June,3306.42,6416.0,18.0,Alto,REDHILLS
+7,July,2772.53,6028.0,16.0,Alto,REDHILLS
+8,August,2508.11,7266.0,1.3,Alto,REDHILLS
+9,September,2634.69,8938.0,0.9,Alto,REDHILLS
+10,October,3081.46,9128.0,14.2,Alto,REDHILLS
+11,November,5002.23,9955.0,296.6,Alto,REDHILLS
+12,December,6245.18,10404.0,774.0,Alto,REDHILLS
