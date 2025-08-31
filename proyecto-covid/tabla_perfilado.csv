@@ -62,10 +62,10 @@ tipo_dato_hospital_beds_per_thousand,float64,Tipo de dato de la columna hospital
 tipo_dato_human_development_index,float64,Tipo de dato de la columna human_development_index
 min_new_cases,0.0,Valor mínimo de new_cases
 max_new_cases,59470.0,Valor máximo de new_cases
-pct_faltantes_new_cases,1.26%,Porcentaje de valores faltantes en new_cases
-pct_faltantes_people_vaccinated,60.83%,Porcentaje de valores faltantes en people_vaccinated
+pct_faltantes_new_cases,1.21%,Porcentaje de valores faltantes en new_cases
+pct_faltantes_people_vaccinated,60.95%,Porcentaje de valores faltantes en people_vaccinated
 fecha_minima,2020-01-01,Fecha más antigua en el dataset
 fecha_maxima,2025-12-28,Fecha más reciente en el dataset
-total_filas,4126,Total de filas en el dataset filtrado
+total_filas,4138,Total de filas en el dataset filtrado
 total_columnas,61,Total de columnas en el dataset
 paises_incluidos,"Ecuador, Peru",Países incluidos en el análisis
